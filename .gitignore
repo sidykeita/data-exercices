@@ -7,3 +7,6 @@ env/
 Thumbs.db
 .DS_Store
 data/
+*.db
+*.sqlite
+*.sqlite3
